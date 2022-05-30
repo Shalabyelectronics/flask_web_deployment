@@ -102,6 +102,10 @@ and before you push your commits to GitHub remote repository lets add `.gitignor
 
 ![git ignore](https://user-images.githubusercontent.com/57592040/171042615-2f355d7a-507c-4e6e-a555-f3861b3757e8.gif)
 
+Then create `.gitignore` file in the same path level where your web app files located and paste all content inside it as below:
+
+![create gitignore file](https://user-images.githubusercontent.com/57592040/171043348-879aaf6f-4975-4fb0-81c6-2787eeb70c13.png)
+
 
 That's it now when you push your comments Heroku will detect the changes and rebuild our web app and here we are>>>> you can check it [here](https://shalaby-blog.herokuapp.com/)  
 
